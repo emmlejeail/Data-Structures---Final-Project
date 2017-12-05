@@ -6,7 +6,7 @@ Code in C written by Antoine COLLAS and Emmanuelle LEJEAIL
 Subject: create a C program to help an organization keep track of its member
 ```
 /*
-** 2001 September 15
+** 2017 December 10
 **
 ** The author disclaims copyright to this source code.  In place of
 ** a legal notice, here is a blessing:
